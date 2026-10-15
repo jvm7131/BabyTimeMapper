@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="events.rnc" type="application/relax-ng-compact-syntax"?>
+
+<events>
+  <track type="1" name="My College Journey">
+
+    <event>
+      <title>Starting College at Penn State Behrend</title>
+      <date type="start">
+        <year>2023</year>
+        <era>AD</era>
+      </date>
+      <description>My college journey begins at Penn State Behrend, where I start exploring new subjects, meeting people, and learning new things.</description>
+      <lat>42.1184</lat>
+      <lon>-79.9812</lon>
+    </event>
+
+    <event>
+      <title>Exploring Digital Media</title>
+      <date type="start">
+        <year>2024</year>
+        <era>AD</era>
+      </date>
+      <description>I continue my studies and explore digital media, technology, creativity, and ways to bring my ideas to life.</description>
+      <lat>42.1184</lat>
+      <lon>-79.9812</lon>
+    </event>
+
+    <event>
+      <title>Learning Web Design</title>
+      <date type="start">
+        <year>2025</year>
+        <era>AD</era>
+      </date>
+      <description>I learn more about building websites, working with HTML and CSS, and using creative tools to design digital projects.</description>
+      <lat>42.1184</lat>
+      <lon>-79.9812</lon>
+    </event>
+
+    <event>
+      <title>Building My Digital Portfolio</title>
+      <date type="start">
+        <year>2026</year>
+        <era>AD</era>
+      </date>
+      <description>I continue developing my digital media skills and working on projects that showcase my creativity, interests, and growth.</description>
+      <lat>42.1184</lat>
+      <lon>-79.9812</lon>
+    </event>
+
+    <event>
+      <title>Graduating from Penn State Behrend</title>
+      <date type="start">
+        <year>2027</year>
+        <month>12</month>
+        <era>AD</era>
+      </date>
+      <description>I look forward to graduating with my BA in Digital Media, Arts, and Technology and taking the next step in my career.</description>
+      <lat>42.1184</lat>
+      <lon>-79.9812</lon>
+    </event>
+
+  </track>
+</events>
